@@ -1,0 +1,19 @@
+.logo{
+    display: inline-block;
+    left: 2vw;
+}
+
+.links{
+    display: inline-block;
+    float: right;
+}
+.sidelinks{
+    display: inline-block;
+}
+.content{
+    display: inline-block;
+}
+.side-content{
+    display: inline-block; float: right;
+}
+
